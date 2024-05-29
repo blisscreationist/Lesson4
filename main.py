@@ -1,3 +1,4 @@
+
 for i in range(8):
     print("слово")
 
@@ -8,4 +9,7 @@ elif b > a:
     print("б больше а")
 else:
     print("б равно а")
+
+print("я конфликтую")
+
 
